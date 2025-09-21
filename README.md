@@ -1,4 +1,4 @@
-# bostonhousing_dataset
+# Boston Housing Dataset
 Based on the description of their properties and their surroundings, The Boston Housing Dataset is used to predict the median value of owner occupied homes in Boston Suburbs.
 
 There are 14 attributes in each case of the dataset. They are:
